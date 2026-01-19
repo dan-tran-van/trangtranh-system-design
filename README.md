@@ -3,8 +3,6 @@
 ## Overview
 This document describes the system architecture, key technical decisions, and trade-offs behind a production multilingual content platform designed to support text, images, and videos, with first-class support for CJK (Chinese, Japanese, Korean) languages and vertical writing systems.
 
-The document focuses on **engineering decisions**, **operational considerations**, and **scalability trade-offs**, rather than business or market strategy.
-
 ---
 
 ## Problem Context & Constraints
